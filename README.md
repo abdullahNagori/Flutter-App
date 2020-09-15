@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+Flutter Application with resposive design.
 
 ## Getting Started
 
