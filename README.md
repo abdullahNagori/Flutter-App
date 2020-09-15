@@ -1,6 +1,6 @@
 # flutter_app
 
-Flutter Application with resposive design.
+This Flutter application is helpful for new developers who wants to learn Flutter with a good User Interface
 
 ## Getting Started
 
